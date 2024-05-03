@@ -1,8 +1,11 @@
   __SETUP/INSTALATION__
-git clone https://github.com/moh4meDev/searchDB.git
-cd searchDB
-npm i
-node ./main.js
+
+  ```
+>> git clone https://github.com/moh4meDev/searchDB.git
+>> cd searchDB
+>> npm i
+>> node ./main.js
+  ```
 
 ##
 
