@@ -1,17 +1,31 @@
   __SETUP/INSTALATION__
 
-  ```
+```
 >> git clone https://github.com/moh4meDev/searchDB.git
 >> cd searchDB
 >> npm i
 >> node ./main.js
-  ```
+```
 
 ##
 
   __FONCTIONEMENT__
-Ajouter un dossier nomée "db" pui sajouter le fichier de votre choix de dedans.
-N'oublier pas de modifier le nom du fichier dans le code js a la ligne '7'
+  
+```
+>> LOGIN : admin:password
+>> Entrer le nom a chercher : moh4med
+>> Entre le repertoire : C:\moh4meDEV\Bureau\db
+>> Entrer le type de fichier que vous voulez : sql,csv,json,txt
+```
+
+  __FEATURES__
+
+Ajout d'un login au debut 🔐
+Choix du repertoire ou le script vas chercher 🔎
+Choix du type de fichier 🖥
+Barre de progressions pour suivre l'avancer 🎢
+
+##
 
 <p align="center">
   <img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat" alt="Contribution Welcome">
